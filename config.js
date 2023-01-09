@@ -24,7 +24,7 @@ const config = {
       logo: <SiProbot className="h-10 w-10" />,
     },
     {
-      name: "Automation",
+      name: "songs",
       description:
         "Automation describes a wide range of technologies that reduce  human intervention in processes.",
       logo: <TbMessage2Code className="h-10 w-10" />,
@@ -58,8 +58,8 @@ const config = {
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  discordLink: "https://discord.gg/xqesCf5nBQ",
+  youtubeLink: "https://youtube.com/@smartydino1771",
 };
 
 export default config;
